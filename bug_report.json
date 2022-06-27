@@ -1,1 +1,11 @@
-
+"ID": "101",
+"Summary": "Enter a date in DD MM YYYY format in the Birth Day field",
+"Discription": "The date in the Birth Day field should be displayed in MM DD YYYY format",
+"Steps to reproduce, STR": "1 Open the Husband tab 2 Click the [New Database] button 3 Enter 25.12.1960 in the field Birth Day",
+"Reproducibility": "always",
+"Severity": "major",
+"Priority": "high",
+"Symptom (root cause)": "variance from specs",
+"Workaround": "no",
+"Comments": "null", 
+"Attachments": "null"
