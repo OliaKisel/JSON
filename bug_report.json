@@ -1,6 +1,8 @@
 "ID": "101",
 "Summary": "Enter a date in DD MM YYYY format in the Birth Day field",
 "Discription": "The date in the Birth Day field should be displayed in MM DD YYYY format",
+"Actual Result":"During the testing process, when manually filling the Birth Day field, you can enter the date in the format DD MM YYYY",
+"Expected result":"Ignoring DD MM YYYY format",
 "Steps to reproduce, STR": "1 Open the Husband tab 2 Click the [New Database] button 3 Enter 25.12.1960 in the field Birth Day",
 "Reproducibility": "always",
 "Severity": "major",
